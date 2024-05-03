@@ -1,4 +1,4 @@
-###👋 Olá pessoal! | Hi there! 
+### 👋 Olá pessoal! | Hi there! 
 
 - Me chamo Gustavo Henrique e sou um programador iniciante... 🌊 | My name is Gustavo Henrique and I'm a beginner programmer... 🌊
 - Atualmente eu curso técnico em Desenvolvimento de sistemas pelo SENAI. 👨‍🎓 | I currently take a technical course in Systems Development at SENAI. 👨‍🎓

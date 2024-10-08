@@ -1,9 +1,9 @@
-### 👋 Olá pessoal! | Hi there! 
+### 👋 Hi there! 
 
-- Me chamo Gustavo Henrique e sou um programador iniciante... 🌊 | My name is Gustavo Henrique and I'm a beginner programmer... 🌊
-- Atualmente eu curso técnico em Desenvolvimento de sistemas pelo SENAI. 👨‍🎓 | I currently take a technical course in Systems Development at SENAI. 👨‍🎓
-- Futuramente pretendo trabalhar na área QA. 👨‍💻 | In the future I intend to work in the QA area. 👨‍💻
-- Sonho em cursar uma faculdade de Ciência da Computação pós ensino médio. 💭 | I dream of attending a Computer Science college after high school. 💭
+- My name is Gustavo Henrique and I'm a beginner programmer... 🌊
+- I currently take a technical course in Systems Development at SENAI. 👨‍🎓
+- In the future I intend to work in the QA area. 👨‍💻
+- I dream of attending a Computer Science college after high school. 💭
 
 ###
 

@@ -1,8 +1,8 @@
 ### 👋 Hi there! 
 
 - My name is Gustavo Henrique and I'm a beginner programmer... 🌊
-- I currently take a technical course in Systems Development at SENAI. 👨‍🎓
-- In the future I intend to work in the QA area. 👨‍💻
+- I currently finish a technical course in Systems Development at SENAI. 👨‍🎓
+- In the future I intend to work in the web developing area. 👨‍💻
 - I dream of attending a Computer Science college after high school. 💭
 
 ###

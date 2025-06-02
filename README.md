@@ -1,6 +1,6 @@
 ### 👋 Hi there! 
 
-- My name is Gustavo Henrique and I'm a beginner programmer... 🌊
+- My name is Gustavo Silva and I'm a beginner programmer... 🌊
 - Now I finish a technical course in Systems Development at SENAI. 👨‍🎓
 - In the future I intend to work in the web developing area. 👨‍💻
 - I dream of attending a Computer Science college after high school. 💭

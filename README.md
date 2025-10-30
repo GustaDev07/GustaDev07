@@ -1,9 +1,9 @@
-### 👋 Hi there! 
+### 👋 Hi there! | 👋 Olá pessoal!  
 
-- My name is Gustavo Silva and I'm a beginner programmer... 🌊
-- Now I finish a technical course in Systems Development at SENAI. 👨‍🎓
-- In the future I intend to work in the web developing area. 👨‍💻
-- I dream of attending a Computer Science college after high school. 💭
+- Meu nome é Gustavo Silva e sou um programador iniciante... 🌊 | My name is Gustavo Silva and I'm a beginner programmer... 🌊
+- Terminei recentemente o curso de Desenvolvimento de Sistemas pelo SENAI. 👨‍🎓 | Now I finish a technical course in Systems Development at SENAI. 👨‍🎓
+- No futuro pretendo trabalhar com o Desenvolvimento Web. 👨‍💻 | In the future I intend to work in the web developing area. 👨‍💻
+- Atualmente estou cursando Ciência da Computação pela GRAN Faculdade. 📝 | I am currently studying Computer Science at GRAN College. 📝
 
 ###
 
@@ -28,6 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/flask-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/mysql-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/c-original.svg" height="30" alt="react logo"  />
   <img width="12" />
 </div>
 

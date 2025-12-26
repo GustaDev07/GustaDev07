@@ -2,7 +2,7 @@
 
 - Meu nome é Gustavo Silva e sou um programador iniciante... 🌊 | My name is Gustavo Silva and I'm a beginner programmer... 🌊
 - Terminei recentemente o curso de Desenvolvimento de Sistemas pelo SENAI. 👨‍🎓 | Now I finish a technical course in Systems Development at SENAI. 👨‍🎓
-- No futuro pretendo trabalhar com o Desenvolvimento Web. 👨‍💻 | In the future I intend to work in the web developing area. 👨‍💻
+- Pretendo trabalhar com o Desenvolvimento WBack-end. 👨‍💻 | I intend to work in the Back-end area. 👨‍💻
 - Atualmente estou cursando Ciência da Computação pela GRAN Faculdade. 📝 | I am currently studying Computer Science at GRAN College. 📝
 
 ###
